@@ -19,7 +19,7 @@ My challenge was to build out this QR code component and get it looking as close
 
 ### Screenshot
 
-![](images/qrcode.jpg)
+![](qr-code-component-main/images/qrcode.jpg)
 
 ## My process
 
