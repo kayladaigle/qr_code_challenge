@@ -17,7 +17,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 My challenge was to build out this QR code component and get it looking as close to the Frontend Mentor design as possible.
 
-### Screenshot
+### Screenshot 
+Website URL :  https://kayladaigle.github.io/qr_code_challenge/
 
 ![](qr-code-component-main/images/qrcode.jpg)
 
